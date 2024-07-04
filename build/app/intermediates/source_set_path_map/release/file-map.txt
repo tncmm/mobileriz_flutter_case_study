@@ -1,0 +1,13 @@
+com.example.dog_adoption.app-jetified-window-1.0.0-beta04-0 /Users/mustafatunc/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.dog_adoption.app-jetified-annotation-experimental-1.1.0-1 /Users/mustafatunc/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.dog_adoption.app-core-1.6.0-2 /Users/mustafatunc/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.dog_adoption.app-jetified-window-java-1.0.0-beta04-3 /Users/mustafatunc/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.dog_adoption.app-main-4 /Users/mustafatunc/Flutter_Projects/dog_adoption/android/app/src/main/res
+com.example.dog_adoption.app-release-5 /Users/mustafatunc/Flutter_Projects/dog_adoption/android/app/src/release/res
+com.example.dog_adoption.app-pngs-6 /Users/mustafatunc/Flutter_Projects/dog_adoption/build/app/generated/res/pngs/release
+com.example.dog_adoption.app-resValues-7 /Users/mustafatunc/Flutter_Projects/dog_adoption/build/app/generated/res/resValues/release
+com.example.dog_adoption.app-rs-8 /Users/mustafatunc/Flutter_Projects/dog_adoption/build/app/generated/res/rs/release
+com.example.dog_adoption.app-mergeReleaseResources-9 /Users/mustafatunc/Flutter_Projects/dog_adoption/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.dog_adoption.app-mergeReleaseResources-10 /Users/mustafatunc/Flutter_Projects/dog_adoption/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.dog_adoption.app-merged_res-11 /Users/mustafatunc/Flutter_Projects/dog_adoption/build/app/intermediates/merged_res/release
+com.example.dog_adoption.app-packaged_res-12 /Users/mustafatunc/Flutter_Projects/dog_adoption/build/shared_preferences_android/intermediates/packaged_res/release

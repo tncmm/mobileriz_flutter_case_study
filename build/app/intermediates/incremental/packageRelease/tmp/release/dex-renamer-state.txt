@@ -1,0 +1,4 @@
+#Fri Jul 05 02:05:56 TRT 2024
+base.0=/Users/mustafatunc/Flutter_Projects/dog_adoption/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
